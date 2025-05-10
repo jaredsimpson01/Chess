@@ -1,0 +1,19 @@
+
+# Ignore compiled class files
+/bin/
+*.class
+
+# Ignore IDE settings
+*.iml
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore JAR output (optional)
+ChessGame.jar
